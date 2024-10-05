@@ -58,10 +58,6 @@ Each subdirectory will contain the sample image saved in various formats support
 - **scikit-image**: jpeg, jpg, pdf, pgf, png, raw, rgba, svg, svgz, tif, tiff, webp, bmp, gif, ppm, pgm
 - **imageio**: jpeg, jpg, pdf, pgf, png, raw, rgba, svg, svgz, tif, tiff, webp, bmp, gif, ppm, pgm
 
-## License
-
-This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
-
 ## Acknowledgments
 
 * [Matplotlib](https://matplotlib.org/)
@@ -69,6 +65,10 @@ This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
 * [OpenCV](https://opencv.org/)
 * [scikit-image](https://scikit-image.org/)
 * [imageio](https://imageio.readthedocs.io/)
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
 
 ## Contact
 
