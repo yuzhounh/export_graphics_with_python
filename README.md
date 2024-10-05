@@ -74,4 +74,4 @@ This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
 
 Jing Wang: wangjing@xynu.edu.cn
 
-Project Link: [https://github.com/yuzhounh/matlab-figure-export-comparison](https://github.com/yuzhounh/matlab-figure-export-comparison)
+Project Link: [https://github.com/yuzhounh/python-image-export-comparison](https://github.com/yuzhounh/python-image-export-comparison)
